@@ -1,0 +1,27 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2016-09-23T16:31:13</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2016.2.3.0.0</property>
+    <property name="modified">2017-03-02T11:08:19</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3aff16" />
+        <option name="ERROR_STRIPE_COLOR" value="3aff16" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3aff16" />
+        <option name="ERROR_STRIPE_COLOR" value="3aff16" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
