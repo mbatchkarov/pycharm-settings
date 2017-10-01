@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="52">
+        <list size="54">
           <item index="0" class="java.lang.String" itemvalue="pandas" />
           <item index="1" class="java.lang.String" itemvalue="sia-ms-extractions" />
           <item index="2" class="java.lang.String" itemvalue="numpy" />
@@ -56,6 +56,8 @@
           <item index="49" class="java.lang.String" itemvalue="convertdate" />
           <item index="50" class="java.lang.String" itemvalue="pytz" />
           <item index="51" class="java.lang.String" itemvalue="python-urlify" />
+          <item index="52" class="java.lang.String" itemvalue="pyflakes" />
+          <item index="53" class="java.lang.String" itemvalue="flake8" />
         </list>
       </value>
     </option>
