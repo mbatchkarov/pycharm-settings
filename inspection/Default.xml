@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="56">
+        <list size="57">
           <item index="0" class="java.lang.String" itemvalue="pandas" />
           <item index="1" class="java.lang.String" itemvalue="sia-ms-extractions" />
           <item index="2" class="java.lang.String" itemvalue="numpy" />
@@ -60,6 +60,7 @@
           <item index="53" class="java.lang.String" itemvalue="flake8" />
           <item index="54" class="java.lang.String" itemvalue="stripe" />
           <item index="55" class="java.lang.String" itemvalue="boto3" />
+          <item index="56" class="java.lang.String" itemvalue="uuid" />
         </list>
       </value>
     </option>
