@@ -5,6 +5,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="PULL_REQUEST_TEMPLATE" type="PLAIN_TEXT" />
       <mapping pattern="test_rss_bbc.xml" type="PLAIN_TEXT" />
+      <mapping pattern="errors3" type="PLAIN_TEXT" />
       <mapping pattern="PULL_REQUEST_TEMPLATE.md" type="PLAIN_TEXT" />
       <mapping pattern="test_rss_medium" type="XML" />
       <mapping pattern="test_rss_bbc" type="XML" />
