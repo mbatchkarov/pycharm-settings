@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="65">
+        <list size="66">
           <item index="0" class="java.lang.String" itemvalue="pandas" />
           <item index="1" class="java.lang.String" itemvalue="sia-ms-extractions" />
           <item index="2" class="java.lang.String" itemvalue="numpy" />
@@ -69,6 +69,7 @@
           <item index="62" class="java.lang.String" itemvalue="teebly-pyutils" />
           <item index="63" class="java.lang.String" itemvalue="certifi" />
           <item index="64" class="java.lang.String" itemvalue="aiozipkin" />
+          <item index="65" class="java.lang.String" itemvalue="schedule" />
         </list>
       </value>
     </option>
