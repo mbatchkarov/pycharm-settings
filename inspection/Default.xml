@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="72">
+        <list size="73">
           <item index="0" class="java.lang.String" itemvalue="pandas" />
           <item index="1" class="java.lang.String" itemvalue="sia-ms-extractions" />
           <item index="2" class="java.lang.String" itemvalue="numpy" />
@@ -76,6 +76,7 @@
           <item index="69" class="java.lang.String" itemvalue="dbfpy" />
           <item index="70" class="java.lang.String" itemvalue="elasticsearch-dsl" />
           <item index="71" class="java.lang.String" itemvalue="parserator" />
+          <item index="72" class="java.lang.String" itemvalue="Wand" />
         </list>
       </value>
     </option>
