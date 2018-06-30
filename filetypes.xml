@@ -9,6 +9,7 @@
       <mapping pattern="Dockerfile-indexer" type="PLAIN_TEXT" />
       <mapping pattern="PULL_REQUEST_TEMPLATE" type="PLAIN_TEXT" />
       <mapping pattern="test_rss_bbc.xml" type="PLAIN_TEXT" />
+      <mapping pattern="tom-joineryaml" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="test_rss_bbc" type="XML" />
