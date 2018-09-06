@@ -11,6 +11,7 @@
       <mapping pattern="errors3" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="tom-joineryaml" type="PLAIN_TEXT" />
+      <mapping ext="bson" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="test_rss_medium" type="XML" />
       <mapping pattern="test_rss_bbc" type="XML" />
