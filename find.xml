@@ -13,10 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*.ipynb</mask>
     <mask>*.yaml</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>.html</mask>
     <mask>.js</mask>
     <mask>.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
